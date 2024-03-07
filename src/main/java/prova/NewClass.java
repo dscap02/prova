@@ -7,6 +7,7 @@ public class NewClass {
 		//Branchiamo
 		System.out.println("Ne");
 
+
 	}
 
 }
